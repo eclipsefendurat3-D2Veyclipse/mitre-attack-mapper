@@ -48,8 +48,21 @@ python3 mapper.py "phishing"
 # Search by technique ID
 python3 mapper.py "T1566"
 
+## Demo
+
+> Live output from search against 858 MITRE ATT&CK Enterprise attack patterns
+
+**Search: "phishing"**
+
+
+
 # Export to markdown report
 python3 mapper.py "lateral movement" --output report.md
 ```
+**Search: "brute force"**
+
+**Search: "T1566" (direct ID lookup)**
+
+
 
 ## Sample Output
