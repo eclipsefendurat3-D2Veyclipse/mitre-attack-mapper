@@ -33,7 +33,7 @@ Built from actual Harness Projects security engagements:
 ## Setup
 
 ```bash
-git clone https://github.com/eclipsefendurat3-D2Veyclipse/mitre-attack-mapper.git
+git clone https://github.com/jeffl-hacks/mitre-attack-mapper.git
 cd mitre-attack-mapper
 pip3 install -r requirements.txt
 curl -o data/attack.json https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json
