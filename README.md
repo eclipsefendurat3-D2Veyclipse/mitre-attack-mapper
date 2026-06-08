@@ -66,3 +66,10 @@ python3 mapper.py "lateral movement" --output report.md
 
 
 ## Sample Output
+
+## Portfolio
+
+| Project | Description |
+|---|---|
+| [mitre-attack-mapper](https://github.com/jeffl-hacks/mitre-attack-mapper) | Python CLI tool mapping 858 MITRE ATT&CK Enterprise patterns |
+| [Healthcare Security Perspective](https://github.com/jeffl-hacks/soc-analyst-journey/blob/main/healthcare-security-operations-perspective.md) | Firsthand security control exposure in a HIPAA-regulated environment |
